@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Day,Sprint,Sprint name,Track,Topic,Est. time,Status,Date done,Confidence (1-5),Notes,Link
 1,1,Secure baseline,Cloud,Azure landing zones and governance,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-1
 2,1,Secure baseline,Cloud,"Identity: Entra ID, RBAC, Managed Identity, Key Vault",~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-2
@@ -95,3 +96,102 @@ Day,Sprint,Sprint name,Track,Topic,Est. time,Status,Date done,Confidence (1-5),N
 94,12,"Interview sprint, mock interviews last",Mock interview,Cloud and architecture (whiteboard),~2 h (60-minute mock + 60-minute review),Not started,,,,sprints/sprint-12-interview-sprint.md#day-94
 95,12,"Interview sprint, mock interviews last",Mock interview,AI engineering (design + live build/debug),~2.5 h (75-minute mock + review),Not started,,,,sprints/sprint-12-interview-sprint.md#day-95
 96,12,"Interview sprint, mock interviews last",Mock interview,"DevOps/platform + behavioural, then final review",~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-96
+=======
+Day,Sprint,Sprint name,Track,Topic,Est. time,Status,Date done,Confidence (1-5),Notes,Link
+1,1,Secure baseline,Cloud,Azure landing zones and governance,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-1
+2,1,Secure baseline,Cloud,"Identity: Entra ID, RBAC, Managed Identity, Key Vault",~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-2
+3,1,Secure baseline,AI,Python for a C# developer,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-3
+4,1,Secure baseline,AI,FastAPI service and first LLM call,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-4
+5,1,Secure baseline,DevOps,Git workflows and Linux essentials,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-5
+6,1,Secure baseline,DevOps,Docker fundamentals,~3 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-6
+7,1,Secure baseline,.NET + Design,Clean Architecture refresh and design-interview framework,~2 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-7
+8,1,Secure baseline,Build + Defend,"Secure baseline, end to end",~4 h,Not started,,,,sprints/sprint-01-secure-baseline.md#day-8
+9,2,Private internal AI assistant,Cloud,"Azure networking: VNets, NSGs, hub-spoke",~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-9
+10,2,Private internal AI assistant,Cloud,"Private Endpoints, private DNS, App Gateway, Front Door",~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-10
+11,2,Private internal AI assistant,AI,LLM fundamentals that interviewers probe,~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-11
+12,2,Private internal AI assistant,AI,"Prompting, structured output and function calling",~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-12
+13,2,Private internal AI assistant,DevOps,"Production-grade images, ACR and scanning",~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-13
+14,2,Private internal AI assistant,DevOps,"Bash, Azure CLI automation and network troubleshooting",~3 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-14
+15,2,Private internal AI assistant,.NET + Design,"API design, gateways, load balancing, rate limiting",~2 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-15
+16,2,Private internal AI assistant,Build + Defend,Private internal AI assistant,~4 h,Not started,,,,sprints/sprint-02-private-ai-assistant.md#day-16
+17,3,Policy-document Q&A,Cloud,"Choosing compute: App Service, Container Apps, Functions, AKS",~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-17
+18,3,Policy-document Q&A,Cloud,"Messaging: Service Bus, Event Grid, Event Hubs",~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-18
+19,3,Policy-document Q&A,AI,"Chunking, embeddings and Azure AI Search indexing",~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-19
+20,3,Policy-document Q&A,AI,"RAG v1 with citations and ""I don't know""",~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-20
+21,3,Policy-document Q&A,DevOps,Terraform fundamentals,~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-21
+22,3,Policy-document Q&A,DevOps,"Terraform at team scale: backends, modules, drift, PR plans",~3 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-22
+23,3,Policy-document Q&A,.NET + Design,"Messaging patterns: outbox, idempotency, DLQs",~2 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-23
+24,3,Policy-document Q&A,Build + Defend,"Policy-document Q&A, end to end",~4 h,Not started,,,,sprints/sprint-03-policy-document-qa.md#day-24
+25,4,"Permission-aware RAG, shipped by a pipeline",Cloud,Azure SQL and Cosmos DB,~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-25
+26,4,"Permission-aware RAG, shipped by a pipeline",Cloud,Redis caching and data protection,~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-26
+27,4,"Permission-aware RAG, shipped by a pipeline",AI,"Advanced retrieval: hybrid search, semantic ranking, query rewriting",~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-27
+28,4,"Permission-aware RAG, shipped by a pipeline",AI,Security trimming and RAG evaluation,~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-28
+29,4,"Permission-aware RAG, shipped by a pipeline",DevOps,GitHub Actions with OIDC,~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-29
+30,4,"Permission-aware RAG, shipped by a pipeline",DevOps,Azure DevOps pipelines and CI/CD design at scale,~3 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-30
+31,4,"Permission-aware RAG, shipped by a pipeline",.NET + Design,"Caching, database choice, partitioning",~2 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-31
+32,4,"Permission-aware RAG, shipped by a pipeline",Build + Defend,"Permission-aware RAG, shipped by pipeline",~4 h,Not started,,,,sprints/sprint-04-permission-aware-rag.md#day-32
+33,5,Support-ticket agent on AKS,Cloud,"AKS architecture: node pools, networking, upgrades",~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-33
+34,5,Support-ticket agent on AKS,Cloud,"AKS identity, ingress and autoscaling",~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-34
+35,5,Support-ticket agent on AKS,AI,"Tool calling and the agent loop, from scratch",~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-35
+36,5,Support-ticket agent on AKS,AI,LangGraph: stateful agents with human approval,~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-36
+37,5,Support-ticket agent on AKS,DevOps,Kubernetes core objects,~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-37
+38,5,Support-ticket agent on AKS,DevOps,Helm and Kubernetes troubleshooting,~3 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-38
+39,5,Support-ticket agent on AKS,.NET + Design,Resilience patterns,~2 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-39
+40,5,Support-ticket agent on AKS,Build + Defend,Support-ticket agent on AKS,~4 h,Not started,,,,sprints/sprint-05-agent-on-aks.md#day-40
+41,6,Production readiness,Cloud,"Azure Monitor, Log Analytics, KQL, Application Insights",~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-41
+42,6,Production readiness,Cloud,High availability and disaster recovery,~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-42
+43,6,Production readiness,AI,"LLM tracing, token cost and latency",~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-43
+44,6,Production readiness,AI,Latency optimisation and prompt management,~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-44
+45,6,Production readiness,DevOps,"Prometheus, Grafana and OpenTelemetry on Kubernetes",~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-45
+46,6,Production readiness,DevOps,"SLOs, alerting and incident response",~3 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-46
+47,6,Production readiness,.NET + Design,Observability design in .NET,~2 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-47
+48,6,Production readiness,Build + Defend,Game day: production readiness,~4 h,Not started,,,,sprints/sprint-06-production-readiness.md#day-48
+49,7,Secure AI gateway,Cloud,"Security posture: zero trust, Defender for Cloud, private AKS",~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-49
+50,7,Secure AI gateway,Cloud,API Management as an AI gateway,~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-50
+51,7,Secure AI gateway,AI,OWASP Top 10 for LLM apps and prompt injection,~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-51
+52,7,Secure AI gateway,AI,"Guardrails: Content Safety, PII, output validation, human oversight",~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-52
+53,7,Secure AI gateway,DevOps,DevSecOps and the software supply chain,~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-53
+54,7,Secure AI gateway,DevOps,Policy as code for Kubernetes and Terraform,~3 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-54
+55,7,Secure AI gateway,.NET + Design,OAuth2/OIDC and Entra ID in ASP.NET Core,~2 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-55
+56,7,Secure AI gateway,Build + Defend,Secure AI gateway,~4 h,Not started,,,,sprints/sprint-07-secure-ai-gateway.md#day-56
+57,8,"Same platform on AWS, MCP and GitOps",Cloud,"AWS foundations, mapped from Azure",~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-57
+58,8,"Same platform on AWS, MCP and GitOps",Cloud,"AWS services for the app: ECS/EKS, Lambda, SQS/SNS, data, Bedrock",~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-58
+59,8,"Same platform on AWS, MCP and GitOps",AI,Model Context Protocol (MCP),~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-59
+60,8,"Same platform on AWS, MCP and GitOps",AI,AI in .NET: Microsoft.Extensions.AI and Semantic Kernel,~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-60
+61,8,"Same platform on AWS, MCP and GitOps",DevOps,Terraform for multiple environments and clouds,~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-61
+62,8,"Same platform on AWS, MCP and GitOps",DevOps,GitOps with Argo CD and progressive delivery,~3 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-62
+63,8,"Same platform on AWS, MCP and GitOps",.NET + Design,"Event-driven design, sagas, CQRS and migration strategy",~2 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-63
+64,8,"Same platform on AWS, MCP and GitOps",Build + Defend,"Same platform on AWS, plus MCP and GitOps",~4 h,Not started,,,,sprints/sprint-08-aws-mcp-gitops.md#day-64
+65,9,MLOps I: onboarding-document pipeline,MLOps,ML fundamentals with scikit-learn,~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-65
+66,9,MLOps I: onboarding-document pipeline,MLOps,Experiment tracking and model registry with MLflow,~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-66
+67,9,MLOps I: onboarding-document pipeline,MLOps,"Azure Machine Learning: jobs, pipelines, managed endpoints",~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-67
+68,9,MLOps I: onboarding-document pipeline,AI,Document Intelligence and human review,~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-68
+69,9,MLOps I: onboarding-document pipeline,AI,"Multi-agent patterns, and fine-tuning vs RAG vs prompting",~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-69
+70,9,MLOps I: onboarding-document pipeline,DevOps,CI/CD for machine learning,~3 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-70
+71,9,MLOps I: onboarding-document pipeline,.NET + Design,Data architecture choices,~2 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-71
+72,9,MLOps I: onboarding-document pipeline,Build + Defend,Onboarding-document pipeline,~4 h,Not started,,,,sprints/sprint-09-mlops-document-pipeline.md#day-72
+73,10,MLOps II: model and prompt lifecycle,MLOps,Model serving: real-time and batch,~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-73
+74,10,MLOps II: model and prompt lifecycle,MLOps,"Monitoring, drift and automated retraining",~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-74
+75,10,MLOps II: model and prompt lifecycle,AI,LLM evaluation as a CI gate,~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-75
+76,10,MLOps II: model and prompt lifecycle,AI,"Model selection, cost and open models",~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-76
+77,10,MLOps II: model and prompt lifecycle,DevOps,Platform engineering and golden paths,~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-77
+78,10,MLOps II: model and prompt lifecycle,DevOps,FinOps: cloud and Kubernetes cost,~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-78
+79,10,MLOps II: model and prompt lifecycle,.NET + Design,Classic case studies: notifications and payments,~3 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-79
+80,10,MLOps II: model and prompt lifecycle,Build + Defend,Model and prompt lifecycle,~4 h,Not started,,,,sprints/sprint-10-model-and-prompt-lifecycle.md#day-80
+81,11,Capstone: Enterprise AI banking platform,Capstone,"Scope, requirements and HLD",~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-81
+82,11,Capstone: Enterprise AI banking platform,Capstone,"LLD, ADRs, threat model and cost",~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-82
+83,11,Capstone: Enterprise AI banking platform,Capstone,.NET business services,~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-83
+84,11,Capstone: Enterprise AI banking platform,Capstone,AI services integration,~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-84
+85,11,Capstone: Enterprise AI banking platform,Capstone,"Platform: Terraform, AKS, GitOps",~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-85
+86,11,Capstone: Enterprise AI banking platform,Capstone,"Observability, dashboards and runbooks",~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-86
+87,11,Capstone: Enterprise AI banking platform,Capstone,"Hardening: security review, load test, rollback test",~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-87
+88,11,Capstone: Enterprise AI banking platform,Capstone,Demo video and portfolio README,~3 h,Not started,,,,sprints/sprint-11-capstone.md#day-88
+89,12,"Interview sprint, mock interviews last",Interview prep,Cloud scenario rehearsal,~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-89
+90,12,"Interview sprint, mock interviews last",Interview prep,AI engineering scenario rehearsal,~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-90
+91,12,"Interview sprint, mock interviews last",Interview prep,DevOps and platform rehearsal + live troubleshooting,~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-91
+92,12,"Interview sprint, mock interviews last",Interview prep,System design rounds (timed),~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-92
+93,12,"Interview sprint, mock interviews last",Interview prep,"STAR stories, CV and profiles",~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-93
+94,12,"Interview sprint, mock interviews last",Mock interview,Cloud and architecture (whiteboard),~2 h (60-minute mock + 60-minute review),Not started,,,,sprints/sprint-12-interview-sprint.md#day-94
+95,12,"Interview sprint, mock interviews last",Mock interview,AI engineering (design + live build/debug),~2.5 h (75-minute mock + review),Not started,,,,sprints/sprint-12-interview-sprint.md#day-95
+96,12,"Interview sprint, mock interviews last",Mock interview,"DevOps/platform + behavioural, then final review",~3 h,Not started,,,,sprints/sprint-12-interview-sprint.md#day-96
+>>>>>>> b719f484b960de3afd98d7c76e96491fa9ef1223
